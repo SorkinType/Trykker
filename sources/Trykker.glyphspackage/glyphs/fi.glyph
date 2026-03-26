@@ -1,0 +1,27 @@
+{
+glyphname = fi;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+ref = f;
+},
+{
+pos = (683,0);
+ref = i;
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.6,
+0.986,
+1,
+1
+);
+};
+width = 1365;
+}
+);
+unicode = 64257;
+}

@@ -1,0 +1,25 @@
+{
+glyphname = exclamdown;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+pos = (0,1250);
+ref = exclam;
+scale = (1,-1);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.6,
+0.986,
+1,
+1
+);
+};
+width = 512;
+}
+);
+unicode = 161;
+}

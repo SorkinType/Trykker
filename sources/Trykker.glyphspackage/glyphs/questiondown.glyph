@@ -1,0 +1,25 @@
+{
+glyphname = questiondown;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+angle = 180;
+pos = (1023,1027);
+ref = question;
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.6,
+0.986,
+1,
+1
+);
+};
+width = 1023;
+}
+);
+unicode = 191;
+}

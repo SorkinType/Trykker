@@ -1,0 +1,27 @@
+{
+glyphname = uhungarumlaut;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+ref = u;
+},
+{
+pos = (159,0);
+ref = hungarumlaut;
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.6,
+0.986,
+1,
+1
+);
+};
+width = 1196;
+}
+);
+unicode = 369;
+}

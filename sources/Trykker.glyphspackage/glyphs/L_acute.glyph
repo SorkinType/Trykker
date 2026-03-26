@@ -1,0 +1,27 @@
+{
+glyphname = Lacute;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+ref = L;
+},
+{
+pos = (346,0);
+ref = acute;
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.6,
+0.986,
+1,
+1
+);
+};
+width = 1194;
+}
+);
+unicode = 313;
+}

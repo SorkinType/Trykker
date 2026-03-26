@@ -1,0 +1,41 @@
+{
+glyphname = macron;
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (340,1955);
+}
+);
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(628,1232,o),
+(643,1270,o),
+(630,1326,c),
+(43,1326,l),
+(29,1305,o),
+(15,1248,o),
+(29,1209,c),
+(616,1209,l,{
+name = hr00;
+})
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.6,
+0.986,
+1,
+1
+);
+};
+width = 681;
+}
+);
+unicode = 175;
+}

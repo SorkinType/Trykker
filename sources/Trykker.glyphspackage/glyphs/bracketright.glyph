@@ -1,0 +1,37 @@
+{
+glyphname = bracketright;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(210,-202,l),
+(189,-285,l),
+(196,-299,l),
+(498,-299,l),
+(498,1472,l),
+(210,1472,l),
+(185,1396,l),
+(194,1378,l),
+(338,1355,l),
+(338,-182,l,{
+name = hr00;
+})
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.6,
+0.986,
+1,
+1
+);
+};
+width = 684;
+}
+);
+unicode = 93;
+}

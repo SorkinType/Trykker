@@ -1,0 +1,31 @@
+{
+glyphname = bar;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(314,1766,l),
+(197,1766,l),
+(197,-471,l),
+(314,-471,l,{
+name = hr00;
+})
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.6,
+0.986,
+1,
+1
+);
+};
+width = 511;
+}
+);
+unicode = 124;
+}

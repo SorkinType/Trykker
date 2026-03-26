@@ -1,0 +1,27 @@
+{
+glyphname = cdotaccent;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+ref = c;
+},
+{
+pos = (331,1148);
+ref = period;
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.6,
+0.986,
+1,
+1
+);
+};
+width = 1024;
+}
+);
+unicode = 267;
+}

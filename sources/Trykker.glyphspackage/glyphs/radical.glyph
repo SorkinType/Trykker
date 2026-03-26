@@ -1,0 +1,38 @@
+{
+glyphname = radical;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(950,-354,l),
+(1669,1920,l),
+(1506,1920,l),
+(873,-177,l),
+(865,-177,l),
+(530,708,l),
+(361,708,l),
+(200,579,l),
+(259,473,l),
+(385,555,l),
+(773,-354,l,{
+name = hr00;
+})
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.6,
+0.986,
+1,
+1
+);
+};
+width = 1702;
+}
+);
+unicode = 8730;
+}

@@ -1,0 +1,39 @@
+{
+glyphname = period;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(320,-21,o),
+(378,47,o),
+(378,103,cs),
+(378,164,o),
+(307,216,o),
+(250,216,cs),
+(185,216,o),
+(133,151,o),
+(133,94,cs),
+(133,33,o),
+(198,-21,o),
+(252,-21,cs,{
+name = hr00;
+})
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.6,
+0.986,
+1,
+1
+);
+};
+width = 512;
+}
+);
+unicode = 46;
+}

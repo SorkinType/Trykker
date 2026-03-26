@@ -1,0 +1,53 @@
+{
+glyphname = dotlessi;
+layers = (
+{
+anchors = (
+{
+name = btm;
+pos = (359,-195);
+},
+{
+name = top;
+pos = (359,1955);
+}
+);
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(415,1029,l,{
+name = hr02;
+}),
+(133,914,l),
+(122,860,l),
+(133,848,l),
+(272,789,l),
+(272,128,l),
+(140,85,l),
+(130,9,l),
+(137,0,l),
+(585,0,l),
+(596,80,l),
+(592,94,l),
+(432,128,l),
+(432,1020,l,{
+name = hr01;
+})
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.6,
+0.986,
+1,
+1
+);
+};
+width = 682;
+}
+);
+unicode = 305;
+}

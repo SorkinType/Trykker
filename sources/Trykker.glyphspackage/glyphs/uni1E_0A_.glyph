@@ -1,0 +1,27 @@
+{
+glyphname = uni1E0A;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+ref = D;
+},
+{
+pos = (495,0);
+ref = dotaccent.cap;
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.6,
+0.986,
+1,
+1
+);
+};
+width = 1532;
+}
+);
+unicode = 7690;
+}

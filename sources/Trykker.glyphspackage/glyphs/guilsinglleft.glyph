@@ -1,0 +1,40 @@
+{
+glyphname = guilsinglleft;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(586,906,l),
+(577,977,o),
+(513,991,o),
+(513,991,c),
+(83,624,l),
+(83,624,o),
+(61,596,o),
+(66,553,c),
+(526,169,l),
+(582,200,o),
+(593,254,o),
+(593,254,c),
+(254,586,l,{
+name = hr00;
+})
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.6,
+0.986,
+1,
+1
+);
+};
+width = 682;
+}
+);
+unicode = 8249;
+}

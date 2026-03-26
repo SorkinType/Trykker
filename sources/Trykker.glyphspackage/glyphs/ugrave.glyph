@@ -1,0 +1,27 @@
+{
+glyphname = ugrave;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+ref = u;
+},
+{
+pos = (318,0);
+ref = grave;
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.6,
+0.986,
+1,
+1
+);
+};
+width = 1196;
+}
+);
+unicode = 249;
+}

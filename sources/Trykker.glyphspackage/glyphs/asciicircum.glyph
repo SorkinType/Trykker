@@ -1,0 +1,40 @@
+{
+glyphname = asciicircum;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(978,88,o),
+(1067,38,o),
+(1114,174,c),
+(644,1209,l),
+(579,1221,o),
+(539,1171,o),
+(539,1171,c),
+(72,183,l),
+(72,183,o),
+(99,110,o),
+(205,88,c),
+(596,929,l),
+(978,88,l,{
+name = hr00;
+})
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.6,
+0.986,
+1,
+1
+);
+};
+width = 1196;
+}
+);
+unicode = 94;
+}

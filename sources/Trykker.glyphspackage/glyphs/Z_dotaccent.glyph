@@ -1,0 +1,27 @@
+{
+glyphname = Zdotaccent;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+ref = Z;
+},
+{
+pos = (400,0);
+ref = dotaccent.cap;
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.6,
+0.986,
+1,
+1
+);
+};
+width = 1359;
+}
+);
+unicode = 379;
+}

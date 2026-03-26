@@ -1,0 +1,37 @@
+{
+glyphname = logicalnot;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(880,227,l),
+(947,227,o),
+(996,243,o),
+(996,243,c),
+(996,627,l),
+(206,627,l),
+(195,596,o),
+(195,562,o),
+(206,532,c),
+(880,532,l,{
+name = hr00;
+})
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.6,
+0.986,
+1,
+1
+);
+};
+width = 1194;
+}
+);
+unicode = 172;
+}

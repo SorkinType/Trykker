@@ -1,0 +1,45 @@
+{
+glyphname = grave;
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (268,1955);
+}
+);
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(307,1187,o),
+(333,1206,o),
+(352,1256,c),
+(248,1350,o),
+(142,1477,o),
+(81,1589,c),
+(15,1571,o),
+(-23,1535,o),
+(-49,1479,c),
+(20,1375,o),
+(137,1260,o),
+(267,1180,c,{
+name = hr00;
+})
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.6,
+0.986,
+1,
+1
+);
+};
+width = 537;
+}
+);
+unicode = 96;
+}

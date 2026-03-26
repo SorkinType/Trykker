@@ -1,0 +1,27 @@
+{
+glyphname = aring;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+ref = a;
+},
+{
+pos = (187,0);
+ref = ring;
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.6,
+0.986,
+1,
+1
+);
+};
+width = 1025;
+}
+);
+unicode = 229;
+}

@@ -1,0 +1,57 @@
+{
+glyphname = l;
+layers = (
+{
+anchors = (
+{
+name = btm;
+pos = (320,-195);
+},
+{
+name = top;
+pos = (320,1955);
+}
+);
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(409,1636,l),
+(108,1524,l),
+(97,1470,l),
+(108,1456,l),
+(265,1416,l),
+(265,128,l,{
+name = hr02;
+}),
+(135,85,l,{
+name = hr03;
+}),
+(126,9,l),
+(131,0,l),
+(578,0,l),
+(593,80,l,{
+name = hr04;
+}),
+(585,94,l),
+(425,128,l),
+(425,1627,l,{
+name = hr01;
+})
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.6,
+0.986,
+1,
+1
+);
+};
+width = 684;
+}
+);
+unicode = 108;
+}

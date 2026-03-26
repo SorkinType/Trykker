@@ -1,0 +1,28 @@
+{
+glyphname = quotedblbase;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+pos = (-6,0);
+ref = comma;
+},
+{
+pos = (347,0);
+ref = comma;
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.6,
+0.986,
+1,
+1
+);
+};
+width = 854;
+}
+);
+unicode = 8222;
+}

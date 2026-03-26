@@ -1,0 +1,35 @@
+{
+glyphname = fraction;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(98,-97,o),
+(138,-120,o),
+(164,-125,c),
+(1120,1585,l),
+(1104,1609,o),
+(1066,1632,o),
+(1040,1636,c),
+(79,-78,l,{
+name = hr00;
+})
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.6,
+0.986,
+1,
+1
+);
+};
+width = 1200;
+}
+);
+unicode = 8260;
+}

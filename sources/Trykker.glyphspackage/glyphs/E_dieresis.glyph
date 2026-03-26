@@ -1,0 +1,27 @@
+{
+glyphname = Edieresis;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+ref = E;
+},
+{
+pos = (440,0);
+ref = dieresis.cap;
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.6,
+0.986,
+1,
+1
+);
+};
+width = 1361;
+}
+);
+unicode = 203;
+}

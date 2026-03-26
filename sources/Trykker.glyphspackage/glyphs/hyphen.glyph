@@ -1,0 +1,35 @@
+{
+glyphname = hyphen;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(553,530,o),
+(568,568,o),
+(555,624,c),
+(108,624,l),
+(94,603,o),
+(80,546,o),
+(94,506,c),
+(542,506,l,{
+name = hr00;
+})
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.6,
+0.986,
+1,
+1
+);
+};
+width = 650;
+}
+);
+unicode = 45;
+}

@@ -1,0 +1,27 @@
+{
+glyphname = ecaron;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+ref = e;
+},
+{
+pos = (136,0);
+ref = caron;
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.6,
+0.986,
+1,
+1
+);
+};
+width = 1025;
+}
+);
+unicode = 283;
+}

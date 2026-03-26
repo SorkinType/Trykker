@@ -1,0 +1,27 @@
+{
+glyphname = otilde;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+ref = o;
+},
+{
+pos = (159,0);
+ref = tilde;
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.6,
+0.986,
+1,
+1
+);
+};
+width = 1195;
+}
+);
+unicode = 245;
+}

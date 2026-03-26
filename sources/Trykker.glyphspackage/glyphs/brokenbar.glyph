@@ -1,0 +1,40 @@
+{
+glyphname = brokenbar;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(314,1766,l),
+(197,1766,l),
+(197,746,l),
+(314,746,l,{
+name = hr00;
+})
+);
+},
+{
+closed = 1;
+nodes = (
+(314,596,l),
+(197,596,l),
+(197,-471,l),
+(314,-471,l)
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.6,
+0.986,
+1,
+1
+);
+};
+width = 511;
+}
+);
+unicode = 166;
+}

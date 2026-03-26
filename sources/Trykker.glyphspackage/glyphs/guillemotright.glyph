@@ -1,0 +1,30 @@
+{
+glyphname = guillemotright;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+angle = 180;
+pos = (702,1137);
+ref = guilsinglleft;
+},
+{
+angle = 180;
+pos = (1192,1137);
+ref = guilsinglleft;
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.6,
+0.986,
+1,
+1
+);
+};
+width = 1192;
+}
+);
+unicode = 187;
+}

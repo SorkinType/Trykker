@@ -1,0 +1,27 @@
+{
+glyphname = Amacron;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+ref = A;
+},
+{
+pos = (490,0);
+ref = macron.cap;
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.6,
+0.986,
+1,
+1
+);
+};
+width = 1535;
+}
+);
+unicode = 256;
+}

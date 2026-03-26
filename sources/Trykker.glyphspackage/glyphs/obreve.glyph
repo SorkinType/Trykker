@@ -1,0 +1,27 @@
+{
+glyphname = obreve;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+ref = o;
+},
+{
+pos = (224,0);
+ref = breve;
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.6,
+0.986,
+1,
+1
+);
+};
+width = 1195;
+}
+);
+unicode = 335;
+}

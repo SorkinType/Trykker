@@ -1,0 +1,27 @@
+{
+glyphname = Ccaron;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+ref = C;
+},
+{
+pos = (574,0);
+ref = caron.cap;
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.6,
+0.986,
+1,
+1
+);
+};
+width = 1537;
+}
+);
+unicode = 268;
+}

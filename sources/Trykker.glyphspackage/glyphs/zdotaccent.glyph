@@ -1,0 +1,27 @@
+{
+glyphname = zdotaccent;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+ref = z;
+},
+{
+pos = (254,1148);
+ref = period;
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.6,
+0.986,
+1,
+1
+);
+};
+width = 1024;
+}
+);
+unicode = 380;
+}

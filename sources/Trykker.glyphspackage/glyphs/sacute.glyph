@@ -1,0 +1,27 @@
+{
+glyphname = sacute;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+ref = s;
+},
+{
+pos = (155,0);
+ref = acute;
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.6,
+0.986,
+1,
+1
+);
+};
+width = 854;
+}
+);
+unicode = 347;
+}

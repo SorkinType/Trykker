@@ -1,0 +1,20 @@
+{
+glyphname = Ytilde;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+ref = Y;
+},
+{
+alignment = -1;
+pos = (324,0);
+ref = tilde.cap;
+}
+);
+width = 1196;
+}
+);
+unicode = 7928;
+}

@@ -1,0 +1,19 @@
+{
+glyphname = Kcaron;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+ref = K;
+},
+{
+pos = (466,0);
+ref = caron.cap;
+}
+);
+width = 1366;
+}
+);
+unicode = 488;
+}

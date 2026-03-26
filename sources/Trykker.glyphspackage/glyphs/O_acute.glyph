@@ -1,0 +1,27 @@
+{
+glyphname = Oacute;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+ref = O;
+},
+{
+pos = (576,0);
+ref = acute.cap;
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.6,
+0.986,
+1,
+1
+);
+};
+width = 1705;
+}
+);
+unicode = 211;
+}

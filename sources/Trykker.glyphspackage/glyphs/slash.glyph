@@ -1,0 +1,35 @@
+{
+glyphname = slash;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(108,-141,o),
+(155,-162,o),
+(183,-162,c),
+(772,1571,l),
+(751,1589,o),
+(699,1607,o),
+(670,1607,c),
+(84,-128,l,{
+name = hr00;
+})
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.6,
+0.986,
+1,
+1
+);
+};
+width = 856;
+}
+);
+unicode = 47;
+}

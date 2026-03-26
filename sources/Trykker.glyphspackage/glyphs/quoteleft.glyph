@@ -1,0 +1,25 @@
+{
+glyphname = quoteleft;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+angle = 180;
+pos = (511,1229);
+ref = comma;
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.6,
+0.986,
+1,
+1
+);
+};
+width = 512;
+}
+);
+unicode = 8216;
+}

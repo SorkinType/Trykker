@@ -1,0 +1,27 @@
+{
+glyphname = adieresis;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+ref = a;
+},
+{
+pos = (88,0);
+ref = dieresis;
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.6,
+0.986,
+1,
+1
+);
+};
+width = 1025;
+}
+);
+unicode = 228;
+}

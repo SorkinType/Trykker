@@ -1,0 +1,27 @@
+{
+glyphname = Wacute;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+ref = W;
+},
+{
+pos = (831,0);
+ref = acute.cap;
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.6,
+0.986,
+1,
+1
+);
+};
+width = 2214;
+}
+);
+unicode = 7810;
+}

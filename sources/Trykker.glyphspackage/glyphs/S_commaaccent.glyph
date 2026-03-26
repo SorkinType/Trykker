@@ -1,0 +1,27 @@
+{
+glyphname = Scommaaccent;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+ref = S;
+},
+{
+pos = (269,0);
+ref = commaaccent;
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.6,
+0.986,
+1,
+1
+);
+};
+width = 1196;
+}
+);
+unicode = 536;
+}

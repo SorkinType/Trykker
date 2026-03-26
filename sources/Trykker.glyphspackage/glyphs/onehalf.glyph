@@ -1,0 +1,31 @@
+{
+glyphname = onehalf;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+ref = fraction;
+},
+{
+pos = (1200,0);
+ref = onesuperior;
+},
+{
+pos = (1882,0);
+ref = twosuperior;
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.6,
+0.986,
+1,
+1
+);
+};
+width = 2736;
+}
+);
+unicode = 189;
+}

@@ -1,0 +1,19 @@
+{
+glyphname = itilde;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+ref = dotlessi;
+},
+{
+pos = (-80,0);
+ref = tilde;
+}
+);
+width = 682;
+}
+);
+unicode = 297;
+}

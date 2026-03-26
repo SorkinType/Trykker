@@ -1,0 +1,35 @@
+{
+glyphname = backslash;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(158,1607,o),
+(106,1589,o),
+(84,1571,c),
+(673,-162,l),
+(701,-162,o),
+(749,-141,o),
+(772,-128,c),
+(185,1607,l,{
+name = hr00;
+})
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.6,
+0.986,
+1,
+1
+);
+};
+width = 856;
+}
+);
+unicode = 92;
+}

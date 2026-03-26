@@ -1,0 +1,27 @@
+{
+glyphname = scaron;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+ref = s;
+},
+{
+pos = (-9,0);
+ref = caron;
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.6,
+0.986,
+1,
+1
+);
+};
+width = 854;
+}
+);
+unicode = 353;
+}

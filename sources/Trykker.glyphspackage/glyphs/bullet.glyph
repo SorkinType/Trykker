@@ -1,0 +1,39 @@
+{
+glyphname = bullet;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(63,523,o),
+(149,436,o),
+(256,436,cs),
+(362,436,o),
+(448,523,o),
+(448,629,cs),
+(448,735,o),
+(362,822,o),
+(256,822,cs),
+(149,822,o),
+(63,735,o),
+(63,629,cs,{
+name = hr00;
+})
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.6,
+0.986,
+1,
+1
+);
+};
+width = 512;
+}
+);
+unicode = 8226;
+}

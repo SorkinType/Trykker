@@ -1,0 +1,27 @@
+{
+glyphname = Icircumflex;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+ref = I;
+},
+{
+pos = (65,0);
+ref = circumflex.cap;
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.6,
+0.986,
+1,
+1
+);
+};
+width = 683;
+}
+);
+unicode = 206;
+}

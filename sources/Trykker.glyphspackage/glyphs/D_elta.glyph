@@ -1,0 +1,41 @@
+{
+glyphname = Delta;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(1659,1,l),
+(1675,27,l),
+(922,1516,l),
+(890,1516,l),
+(202,22,l),
+(216,1,l,{
+name = hr00;
+})
+);
+},
+{
+closed = 1;
+nodes = (
+(869,1213,l),
+(1409,120,l),
+(371,120,l)
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.6,
+0.986,
+1,
+1
+);
+};
+width = 1877;
+}
+);
+unicode = (916,8710);
+}

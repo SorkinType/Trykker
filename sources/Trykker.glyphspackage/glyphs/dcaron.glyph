@@ -1,0 +1,27 @@
+{
+glyphname = dcaron;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+ref = d;
+},
+{
+pos = (997,1420);
+ref = comma;
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.6,
+0.986,
+1,
+1
+);
+};
+width = 1366;
+}
+);
+unicode = 271;
+}

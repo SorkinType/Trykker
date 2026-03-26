@@ -1,0 +1,27 @@
+{
+glyphname = Hcircumflex;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+ref = H;
+},
+{
+pos = (492,0);
+ref = circumflex.cap;
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.6,
+0.986,
+1,
+1
+);
+};
+width = 1535;
+}
+);
+unicode = 292;
+}

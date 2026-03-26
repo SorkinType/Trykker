@@ -1,0 +1,25 @@
+{
+glyphname = guilsinglright;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+angle = 180;
+pos = (682,1171);
+ref = guilsinglleft;
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.6,
+0.986,
+1,
+1
+);
+};
+width = 682;
+}
+);
+unicode = 8250;
+}
